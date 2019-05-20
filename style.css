@@ -1,0 +1,24 @@
+
+.text-blue{
+    color: blue;
+    size: 19 px;
+}
+
+.text-green{
+    color:green;
+    size: 16 px
+}
+
+#national{
+    front-size:22px;
+    color: red;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.alert-primary{
+    color: #004085;
+    background-color: red
+}
